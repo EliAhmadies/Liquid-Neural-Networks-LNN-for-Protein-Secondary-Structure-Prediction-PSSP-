@@ -1,0 +1,4 @@
+data
+data/proteins
+data/proteins/*
+__pycache__
