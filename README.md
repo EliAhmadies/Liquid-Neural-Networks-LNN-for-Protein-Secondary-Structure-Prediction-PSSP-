@@ -123,4 +123,4 @@ For questions or collaborations, please open an issue or contact the contributor
 * Ahmadieslamloo Elaheh
 * Ausilio Lorenzo
 * Jafarpour Farshad
-* Prodan George ([https://github.com/prodangp/LCP-B](https://github.com/prodangp/LCP-B))
+* Prodan George
